@@ -5,7 +5,7 @@ Snake game in 8086 Assembly for DOS.
 > <br><img width="250" src="imgs/snake.png">
 
 >Gameplay:
-> <br><img width="400" src="imgs/snake.gif">
+> <br><img width="400" src="imgs/gameplay.gif">
 
 
 Assemble in DOS with MASM.
